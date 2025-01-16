@@ -1,0 +1,1 @@
+ leveraging the platform's innovative features to realize the Initial AI Agent Offering (IAAO). Kimi adopts the ElizaOS development framework, integrating AI with decentralized finance to form AiFi, delivering an unprecedented product experience for users.
